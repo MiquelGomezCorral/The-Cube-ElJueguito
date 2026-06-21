@@ -1,10 +1,10 @@
 title:
-  en: The Cube: El Jueguito
-  es: The Cube: El Jueguito
+  en: "The Cube: El Jueguito"
+  es: "The Cube: El Jueguito"
 finished: finished
 descriptionShort:
-  en: The Cube, also known as El Jueguito, was my first major programming project. With the aim of learning C# and Unity, I started this game as a practice project. The concept is simple: protect a cube from enemies. Round after round, more and more enemies appear, each stronger than the previous. When you can no longer hold them back, you can use the money to upgrade your weapons and survive further rounds!
-  es: The Cube, también conocido como El Jueguito, fue mi primer proyecto 'grande' de programación. Lo empecé para aprender C# y Unity (gráficos incluidos, hechos por mi). La idea es sencilla: proteger un cubo de los enemigos. Cada ronda aparecen más y más, y cuando no puedas resistir más, puedes gastar el dinero que ganas en mejorar tu personaje para seguir sobreviviendo.
+  en: "The Cube, also known as El Jueguito, was my first major programming project. With the aim of learning C# and Unity, I started this game as a practice project. The concept is simple: protect a cube from enemies. Round after round, more and more enemies appear, each stronger than the previous. When you can no longer hold them back, you can use the money to upgrade your weapons and survive further rounds!"
+  es: "The Cube, también conocido como El Jueguito, fue mi primer proyecto 'grande' de programación. Lo empecé para aprender C# y Unity (gráficos incluidos, hechos por mi). La idea es sencilla: proteger un cubo de los enemigos. Cada ronda aparecen más y más, y cuando no puedas resistir más, puedes gastar el dinero que ganas en mejorar tu personaje para seguir sobreviviendo."
 descriptionLong:
   en: |
     The Cube, also known as El Jueguito, was my first major programming project. With the aim of learning C# and Unity, I started this game as a practice project. Creating the visuals and assets using Photoshop resulted in a visually appealing game. The concept is simple: protect a cube from enemies. Round after round, more and more enemies appear, each stronger than the previous, and sometimes they come with a surprise. Defeating each enemy rewards you with money. When you can no longer hold them back, you can use the money to upgrade your weapons and survive further rounds!
