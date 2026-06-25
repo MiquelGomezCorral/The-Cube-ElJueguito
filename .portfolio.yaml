@@ -22,6 +22,10 @@ screenShoots:
   - readme_images/El jueguito (6).webp
   - readme_images/El jueguito (7).webp
 youtube: J6wj_w_J8AU
+keywords:
+  en: [tower defense, wave survival, Unity game, enemy waves, money upgrade, pixel art, itch.io, game development, C# game, casual game, first big project, rounds]
+  es: [tower defense, supervivencia por oleadas, juego Unity, oleadas de enemigos, mejoras con dinero, pixel art, itch.io, desarrollo de juegos, juego C#, juego casual, primer proyecto grande, rondas]
 slug: The-Cube-ElJueguito
 order: 70
 featured: false
+
