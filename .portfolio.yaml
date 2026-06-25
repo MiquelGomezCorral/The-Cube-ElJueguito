@@ -11,7 +11,7 @@ descriptionLong:
   es: |
     The Cube, o El Jueguito, fue mi primer proyecto 'grande' de programación. Lo empecé con el objetivo de aprender C# y Unity. También hice los gráficos y assets en Photoshop, lo que le dio un buen acabado visual. La mecánica es sencilla: tienes que defender un cubo de oleadas de enemigos, que se vuelven más fuertes con cada ronda. Al derrotarlos ganas dinero, que puedes invertir en mejorar tus weapons para aguantar más tiempo.
 technologies: [c-sharp, unity, photoshop]
-tags: [other]
+tags: [personal]
 logo: readme_images/El jueguito (1).webp
 screenShoots:
   - readme_images/El jueguito (1).webp
